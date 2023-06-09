@@ -73,7 +73,7 @@
 #include <stdio.h>
 
 using namespace std;
-//#define SHOWMAP
+#define SHOWMAP
 
 int nScreenWidth = 130;			// Console Screen Size X (columns) in shell MACOS
 int nScreenHeight = 34;			// Console Screen Size Y (rows)    in shell MACOS 
